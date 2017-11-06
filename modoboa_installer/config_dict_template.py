@@ -21,7 +21,7 @@ ConfigDictTemplate = [
             "values": [
                 {
                     "option": "hostname",
-                    "default": "mail.%(domain)s",
+                    "default": "mail0.%(domain)s",
                 }
             ]
         },
@@ -137,7 +137,7 @@ ConfigDictTemplate = [
                  },
                  {
                     "option": "timezone",
-                    "default": "Europe/Paris",
+                    "default": "America/Vancouver",
                  },
                  {
                     "option": "dbname",
